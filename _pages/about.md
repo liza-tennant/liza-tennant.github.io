@@ -8,16 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am an AI & Behavioural Scientist. Currently I'm a PhD Candidate at the [Intelligent Social Systems Lab] (https://www.mircomusolesi.org/lab/), Department of Computer Science, University College London (UCL). I am conducting my PhD research as part of the Leverhulme Doctoral Training Programme for the Ecological Study of the Brain. 
+I am an AI & Behavioural Scientist looking to combine my interests in computational modelling, data science and human behaviour in solving prominent problems. 
 
-Previously: 
-- Quantitative UX Researcher @ JPMorgan Chase & Co; 
-- Data & Behavioural Scientis @ Rooster Insurance;
-- Behavioural * AI Scientist @ ProdX.ai; 
-- MPhil research student in Political Psychology @ University of Cambridge;
+Currently I'm a PhD candidate at the [Intelligent Social Systems Lab](https://www.mircomusolesi.org/lab/), Department of Computer Science, University College London (UCL). I am conducting my PhD research on the problem of Ethics - in humans and machines - as part of the Leverhulme Doctoral Training Programme for the Ecological Study of the Brain. 
+
+Previous experience: 
+- Quantitative UX Researcher @ JPMorgan
+- Data & Behavioural Scientis @ Rooster Insurance
+- Behavioural & AI Scientist @ ProdX.ai
+
+Education: 
+- MPhil Biological Science (Psychology) @ University of Cambridge; full-time research, based at the [Political Psychology Lab](https://www.psychol.cam.ac.uk/polpsych).
 - BSc Psychology & Language Sciences @ University College London.
-
-Looking to combine my interests in computational modelling, data science and human behaviour and cognition in solving prominent problems. Currently conducting research on the problem of Ethics - in humans and machines. 
 
 
 

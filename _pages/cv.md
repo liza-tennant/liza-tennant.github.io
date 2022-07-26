@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in Psychology and Language Sciences, University College London, 2019
-* M.Phil. in Biological Science (Psychology), University of Cambridge, 2020
 * Ph.D in Computer Science, University College London, 2025 (expected)
+* M.Phil. in Biological Science (Psychology), University of Cambridge, 2020 
+* B.Sc. in Psychology and Language Sciences, University College London, 2019
+
+
 
 Work experience
 ======

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an AI & Behavioural Scientist looking to combine my interests in computational modelling, data science and human behaviour in solving prominent problems. 
+I am an AI & Behavioural Scientist looking to combine my interests in computational modelling, data science and human behaviour in solving prominent challenges. 
 
 Currently I'm a PhD candidate at the [Intelligent Social Systems Lab](https://www.mircomusolesi.org/lab/), Department of Computer Science, University College London (UCL). I am conducting my PhD research on the problem of Ethics - in humans and machines - funded by the Leverhulme Doctoral Training Programme for the Ecological Study of the Brain. 
 
@@ -22,9 +22,9 @@ Education
 
 Previous experience
 ======
-- Quantitative UX Researcher @ JPMorgan, 2021-2022.
-- Data & Behavioural Scientis @ Rooster Insurance, 2021.
-- Behavioural & AI Scientist @ ProdX.ai, 2020-2021.
+- Quantitative UX Researcher, JPMorgan, 2021-2022.
+- Data & Behavioural Scientist, Rooster Insurance, 2021.
+- Behavioural & AI Scientist, ProdX.ai, 2020-2021.
 
 
 

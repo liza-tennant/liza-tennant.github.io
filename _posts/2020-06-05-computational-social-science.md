@@ -8,8 +8,6 @@ tags:
 ---
 
 
-#Facebook Dataset to Improve Social Science
-#======
 
 (This blog was published in BlueSci - the Cambridge University Science Magazine. The original can be viewed here 
 https://www.bluesci.co.uk/posts/facebook-dataset-to-improve-social-science/.)

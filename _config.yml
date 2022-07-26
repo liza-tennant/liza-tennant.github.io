@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Elizaveta Karmannaya / Site Title"
+title                    : "Elizaveta Karmannaya"
 title_separator          : "-"
-name                     : &name "Liza Karmannaya"
+name                     : &name "Elizaveta Karmannaya"
 description              : &description "PhD Candidate in Computer Science @ UCL; Leverhulme DTP for the Ecological Study of the Brain"
 url                      : https://Liza-Karmannaya.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/liza-karmannaya/"
+  linkedin         : "liza-karmannaya"
   orcid            : "http://orcid.org/0000-0003-4833-6753"
   pinterest        :
   soundcloud       :

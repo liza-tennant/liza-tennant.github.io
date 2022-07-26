@@ -19,7 +19,7 @@ Education
 
 Work experience
 ======
-* Mar 2021-May 2022: Quantitative Behavioural (UX) Researcher
+* Mar 2021-Apr 2022: Quantitative Behavioural (UX) Researcher
   * JPMorgan Chase & Co
   * Duties included: ...
 

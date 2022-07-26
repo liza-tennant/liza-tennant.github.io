@@ -2,7 +2,7 @@
 title: "The Grammar of Politics, through the lens of Surveys and Web-based Social Network methods."
 collection: publications
 permalink: /publication/2021-01-11-Twitter-NLP
-excerpt: 'This paper tests a hypothesis about Noun use by political Conservatives by analysing language and network data from Twitter, and then comparing the results against two survey studies.'
+excerpt: 'This paper analyses language and network data from Twitter to test a hypothesis about Noun use by political Conservatives, and then compares the results against two survey studies.'
 date: 2021-01-11
 venue: 'PsyArXiv'
 paperurl: 'https://psyarxiv.com/v6qx5/'

@@ -15,8 +15,8 @@ Currently I'm a PhD candidate at the [Intelligent Social Systems Lab](https://ww
 
 Education
 ======
-- MPhil Biological Science (Psychology) @ University of Cambridge, 2019-2020. Full-time research, based at the [Political Psychology Lab](https://www.psychol.cam.ac.uk/polpsych). My research was focused on analysing political behaviour and communication on Twitter using Social Network Analysis and NLP.
-- BSc Psychology & Language Sciences @ University College London, 2016-2019.
+- MPhil Biological Science (Psychology), University of Cambridge, 2019-2020. Full-time research, based at the [Political Psychology Lab](https://www.psychol.cam.ac.uk/polpsych). My research was focused on analysing political behaviour and communication on Twitter using Social Network Analysis and NLP.
+- BSc Psychology & Language Sciences, University College London, 2016-2019.
 
 
 

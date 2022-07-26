@@ -6,16 +6,13 @@ excerpt: 'This paper tests a hypothesis about Noun use by political Conservative
 date: 2021-01-11
 venue: 'PsyArXiv'
 paperurl: 'https://psyarxiv.com/v6qx5/'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'Karmannaya, E., & de-Wit, L. (2021, January 11). The Grammar of Politics, through the lens of Surveys and Web-based Social Network methods. <i> PsyArXiv </i>.'
 ---
 This paper is a pre-print of my MPhil research work, where I tested a hypothesis about Noun use by political Conservatives by analysing Language and Social Network data from Twitter, and contrasting this with findings from my two more traditional survey studies. 
 
 [Download paper here](https://psyarxiv.com/v6qx5/)
 
-Recommended citation: 
-Karmannaya, E., & de-Wit, L. (2021, January 11). The Grammar of Politics, through the lens of Surveys and Web-based Social Network methods. <i> PsyArXiv </i> 
-
-Supplementary materials, data & code: https://doi.org/10.17605/OSF.IO/DR7BK
+[View supplementary materials, data & code] (https://doi.org/10.17605/OSF.IO/DR7BK)
 
 Abstract
 ====

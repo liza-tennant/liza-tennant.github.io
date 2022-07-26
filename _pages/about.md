@@ -10,7 +10,7 @@ redirect_from:
 
 I am an AI & Behavioural Scientist looking to combine my interests in computational modelling, data science and human behaviour in solving prominent problems. 
 
-Currently I'm a PhD candidate at the [Intelligent Social Systems Lab](https://www.mircomusolesi.org/lab/), Department of Computer Science, University College London (UCL). I am conducting my PhD research on the problem of Ethics - in humans and machines - as part of the Leverhulme Doctoral Training Programme for the Ecological Study of the Brain. 
+Currently I'm a PhD candidate at the [Intelligent Social Systems Lab](https://www.mircomusolesi.org/lab/), Department of Computer Science, University College London (UCL). I am conducting my PhD research on the problem of Ethics - in humans and machines - funded by the Leverhulme Doctoral Training Programme for the Ecological Study of the Brain. 
 
 
 Education

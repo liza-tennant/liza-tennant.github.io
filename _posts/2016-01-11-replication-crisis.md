@@ -8,8 +8,9 @@ tags:
   - psychology
 ---
 
-(This blog was originally published on the Bedford Bugle - the University College London Psychology Society's blog. The original can be viewed [here](https://bedfordbugle.wordpress.com/2016/11/01/does-social-science-tell-the-truth-my-first-ever-lunch-hour-lecture/).)
+This blog was originally published on the Bedford Bugle - the University College London Psychology Society's blog. The original can be viewed [here](https://bedfordbugle.wordpress.com/2016/11/01/does-social-science-tell-the-truth-my-first-ever-lunch-hour-lecture/).
 
+---
 
 Having only been here for three weeks I already realised that UCL (or university in general, most likely) is the sort of place where fascinating additional learning opportunities happen every day, but if you want to be part of them you have to research them yourself. By pure chance I found out that UCL does free 40-minute lunch hour lectures. And not only are those open to both postgrad super-minds/PhD-holding geniuses, but also the lost-and-flustered-looking freshers like myself. If you’re someone interested in such a hidden gem, but were unable to attend, or would simply like to hear my much-less-professional re-telling of the story, read on!
 

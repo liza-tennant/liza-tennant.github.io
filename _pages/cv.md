@@ -34,7 +34,7 @@ Work experience
   * Used behavioural insights to design two platform features, improve people analytics & build valid, ethical and explainable Machine Learning models
   * Wrote [blog] (https://www.prodx.ai/blog/behavioral-science-improves-motivation-and-productivity) about using behavioural science for productivity
 
-* Aug-Sep 2018: Research Assistant, 
+* Aug-Sep 2018: Research Assistant
   * UCL Interaction Centre
   * Helped with research exploring habits and behaviours of crowdworkers from Amazon Mechanical Turk. Duties included: Analyzing qualitative & quantitative data using Excel & SPSS (N=300); Co-authoring paper presented at ACM CHI 2019 conference
   * Supervisor: Laura Lascau (PhD student) & Prof Anna Cox

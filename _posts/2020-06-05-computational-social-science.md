@@ -9,8 +9,7 @@ tags:
 
 
 
-(This blog was published in BlueSci - the Cambridge University Science Magazine. The original can be viewed here 
-https://www.bluesci.co.uk/posts/facebook-dataset-to-improve-social-science/.)
+(This blog was published in BlueSci - the Cambridge University Science Magazine. The original can be viewed [here] (https://www.bluesci.co.uk/posts/facebook-dataset-to-improve-social-science/).)
 
 Social science research asks fascinating questions about human behaviour. However, it often suffers from a lack of adequate data, due to difficulties finding enough people to participate in experiments or complete questionnaires, and due to social desirability bias — the tendency to answer survey questions in ways that will be viewed favourably by others. A new observational, large dataset, shared by Gary King and Nathaniel Persily in February, may offer a solution to such problems. The dataset spans more than two years and summarizes information from 38 million URLs shared on Facebook, including whether the links were fact-checked, flagged or shared without viewing by users, as well as the types of users who interacted with these links.
 

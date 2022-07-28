@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+{% include base_path %} 
 
 Education
 ======
@@ -35,7 +35,7 @@ Work experience
 * Jun-Nov 2020: Behavioural and AI Scientist
   * ProdX.ai
   * Duties: Co-built a digital platform that helps teams improve workplace productivity; Independently fully implemented Classifier model using AWS Lambda & DynamoDB; Used behavioural insights to design two platform features, improve people analytics & build valid, ethical and explainable Machine Learning models
-  * Wrote a [blog] (https://www.prodx.ai/blog/behavioral-science-improves-motivation-and-productivity) about using behavioural science for productivity
+  * Wrote a [blog](https://www.prodx.ai/blog/behavioral-science-improves-motivation-and-productivity) about using behavioural science for productivity
 
 * Aug-Sep 2018: Research Assistant
   * UCL Interaction Centre
@@ -86,11 +86,11 @@ Teaching
 Service and leadership
 ======
 Positions of Responsibility: 
-Treasurer, May Ball Committee @ Darwin College, Cambridge (2019-2020)
+* Treasurer, May Ball Committee @ Darwin College, Cambridge (2019-2020)
 * Workshop Organiser – Computational Social Science London (2019-2020)
 * Departmental Workshop Organiser ('Where is Psychology Now?') @ UCL (2018-2019)
   * Designed speaker events and debates bridging research and practice in Psychology & Tech 
-  * Proudest achievement: debate titled ‘Humans vs. Machines in Understanding Language’ between Prof Sophie Scott (Neuroscience Professor @ UCL) and an Christos Christodoulopoulos (a researcher from Amazon Alexa)
+  * Proudest achievement: debate titled ‘Humans vs. Machines in Understanding Language’ between Prof Sophie Scott (Neuroscience Professor @ UCL) and Christos Christodoulopoulos (a researcher from Amazon Alexa)
 * Chief Editor & Writer @ UCL Psychology Society Blog, The Bedford Bugle (2016-2019)
   * Designed project ‘Crossing Disciplines’ investigating interdisciplinary research at UCL 
 * Year 1 Student Academic Representative (achieved Advanced Certificate) @ UCL (2016)

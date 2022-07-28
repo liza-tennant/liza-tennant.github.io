@@ -39,7 +39,7 @@ Work experience
 
 * Aug-Sep 2018: Research Assistant
   * UCL Interaction Centre
-  * Duties: Helped with research exploring habits and behaviours of crowdworkers from Amazon Mechanical Turk. Duties included: Analyzing qualitative & quantitative data using Excel & SPSS (N=300); Co-authoring paper presented at ACM CHI 2019 conference
+  * Duties: Helped with research exploring habits and behaviours of crowdworkers from Amazon Mechanical Turk. Analyzed qualitative & quantitative data using Excel & SPSS (N=300); Co-authored paper presented at ACM CHI 2019 conference
   * Supervisor: Laura Lascau (PhD student) & Prof Anna Cox
 
 * Jan-Mr 2018: Placement Research Student

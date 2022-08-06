@@ -27,7 +27,7 @@ Work experience
   * Duties: Analysed behavioral and survey data from external and internal clients across multiple projects (up to 10 in parallel); designed and launched large-scale client survey; conducted extra-curricular research on client-focused digital transformation; Presented results to >5 senior management teams
   * Tools: Python, Jupyter Notebook, Qualtrics
 
-* Jun-Nov 2020: Data and Behavioural Scientist
+* Feb-Nov 2021: Data and Behavioural Scientist
   * Rooster Insurance
   * Duties: Analysed Marketing and Sales data, built forecasts, performed Cohort Analysis. Created visualisations and reports in Google Data Studio. Contributed to the improvement of the premium Pricing model and the analysis of driving Telematics data. 
   * Tools: Excel, Google Data Studio, Python, Jupyter Notebook.
@@ -43,7 +43,7 @@ Work experience
   * Co-authored paper presented at ACM CHI 2019 conference
   * Supervisor: Laura Lascau (PhD student) & Prof Anna Cox
 
-* Jan-Mr 2018: Placement Research Student
+* Jan-Mar 2018: Placement Research Student
   * Stonecroft Children’s Centre
   * Duties: Used standardised tests and designed novel tasks to investigate language development
   

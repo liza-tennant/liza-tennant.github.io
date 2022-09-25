@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Elizaveta Tennant" 
+title                    : "Elizaveta Karmannaya" 
 title_separator          : "-"
-name                     : &name "Elizaveta Tennant"
+name                     : &name "Elizaveta Karmannaya"
 description              : &description "PhD Candidate in Computer Science at UCL, interested in the problem of machine ethics"
 url                      : https://Liza-Karmannaya.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

@@ -24,7 +24,7 @@ Work experience
 ======
 * Mar 2021-Apr 2022: Quantitative Behavioural (UX) Researcher
   * JPMorgan Chase & Co
-  * Duties: Analysed behavioral and survey data from external and internal clients across multiple projects (up to 10 in parallel); designed and launched large-scale client survey; conducted extra-curricular research on client-focused digital transformation; Presented results to >5 senior management teams
+  * Duties: Contributed to the development of a Client Experience Index from behavioural data; analysed behavioral and survey data from external and internal clients across multiple projects (up to 10 in parallel); designed and launched large-scale client survey; conducted extra-curricular research on client-focused digital transformation; Presented results to >5 senior management teams
   * Tools: Python, Jupyter Notebook, Qualtrics
 
 * Feb-Nov 2021: Data and Behavioural Scientist
@@ -54,13 +54,14 @@ Skills
   * Recruiting balanced & (more) representative participant samples online
   * Ethics: design of consent & debrief forms; ethical design of online observational studies
 * Data Science Skills
-  * Python Packages: pandas, networkx, NLTK, keras, matplotlib, numpy, scikit-learn
+  * Research: agent-based experiment design; Online, experimental & observational human study design; participant recruitment; ethics; presentation
+  * Python for data analysis, visualisation & Object-Oriented Programming; Packages: pandas, networkx, NLTK, keras, matplotlib, numpy, scikit-learn
+  * R (& SPSS) for Statistics: linear & generalised linear model, t-tests, chi-square, Bayes Factor correlations, Factor Analysis, Principal Components Analysis, path modelling with lavaan package 
   * SQL: basic proficiency (from Cambridge & DataCamp courses)
-  * Techniques: Machine Learning, NLP, Twitter API, Network Analysis
-  * Data Visualization: network plots, violin plots, histograms, Kernel Density Estimate 
-  * Tools: AWS, MongoDB, IPython, shell scripting, Jupyter, git, Docker, virtual env.
+  * Techniques: Machine Learning (esp. Reinforcement Learning & Multi-Agent Reinforcement Learning), NLP, Twitter API, Network Analysis
+  * Data Visualization: (Python, R, Tableau): area plots, matrix visualization, network plots, histograms, Kernel Density Estimate, violin plots, systematic comparisons of multiple agents’ learning
+  * Technical Tools: shell scripting, SQL, AWS, MongoDB, IPython, Jupyter, git, Docker, virtual environments, Twitter API
   * Hackathons: Cambridge Uni. Data Science Soc. (2019, 3rd place); SheCodes Morgan Stanley (2018, 3rd place)
-  * Statistics in R & SPSS: Multiple Linear & Logistic Regressions, ANOVAs, t-tests, chi-square, Bayes Factor correlation, Factor Analysis, Principal Component Analysis
 * Languages
   * Russian – native
   * English – fluent
@@ -97,12 +98,14 @@ Positions of Responsibility:
 * Year 1 Student Academic Representative (achieved Advanced Certificate) @ UCL (2016)
 
 Voluntary Work:
-* Behavioural Science Volunteer @ Climate Change Communication Workshop (Cambridge, 2019)
 * Volunteer @ CognitionX: Festival of AI and Emerging Technology (London, 2019)
+* Behavioural Science Volunteer @ Climate Change Communication Workshop (Cambridge, 2019)
 * Impact Research Intern @ Greater Change (remote, 2019)
+  * Greater Change addresses homelessness by enabling personalised, cashless donations
+  * Wrote an Impact Report evaluating the charity’s 2-year impact on the lives of clients (for example, integrating the charity’s data with statistics provided by the local council to estimate financial impact on the council’s budget) 
 * Senior Fellow/Planning Team Leader @ Movement for Hope (London, 2016-2018)
   * Movement for Hope creates art-science projects to support research in neuroscience 
-  * Co-created events #Rewired2017 (see Lancet review), #Rewired2018 and a student-researcher video interview project
+  * Co-created events #Rewired2017 [(see Lancet review)](https://www.thelancet.com/pdfs/journals/laneur/PIIS1474-4422(17)30120-5.pdf), #Rewired2018 and a student-researcher video interview project
   * Participated in Patient & Public Involvement workshop 
   * Led the 2018 Planning Team
   * Sat on judging panel of final year Medical Physics & Engineering Prototype projects

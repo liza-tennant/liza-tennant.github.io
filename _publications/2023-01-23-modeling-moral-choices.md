@@ -6,7 +6,7 @@ excerpt: 'We define (reinforcement) learning agents based on various classic mor
 date: 2023-01-23
 venue: 'arXiv (pre-print)'
 paperurl: 'https://arxiv.org/format/2301.08491'
-citation: 'Tennant, E., Hailes, S., Musolesi, M. (2023). "Modeling Moral Choices in Social Dilemmas with Multi-Agent Reinforcement Learning." <i>arXiv.</i>'
+citation: 'Tennant, E., Hailes, S., Musolesi, M. (2023). &quot;Modeling Moral Choices in Social Dilemmas with Multi-Agent Reinforcement Learning.&quot; <i>arXiv.</i>'
 ---
 
 We define (reinforcement) learning agents based on various classic moral philosophies, and study agent behaviours and emerging outcomes in (multi-agent) social dilemma settings. 

@@ -5,7 +5,7 @@ permalink: /publication/2023-modeling-moral-choices
 excerpt: 'We define (reinforcement) learning agents based on various classic moral philosophies, and study agent behaviours and emerging outcomes in (multi-agent) social dilemma settings.'
 date: 2023-01-23
 venue: 'arXiv (pre-print)'
-paperurl: 'https://arxiv.org/abs/2301.08491'
+paperurl: 'https://arxiv.org/abs/2301.08491' 
 citation: 'Tennant, E., Hailes, S., Musolesi, M. (2023). &quot;Modeling Moral Choices in Social Dilemmas with Multi-Agent Reinforcement Learning.&quot; <i>arXiv.</i>'
 ---
 

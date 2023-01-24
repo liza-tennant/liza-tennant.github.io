@@ -2,7 +2,7 @@
 title: "Modeling Moral Choices in Social Dilemmas with Multi-Agent Reinforcement Learning"
 collection: publications
 permalink: /publication/2023-modeling-moral-choices
-excerpt: 'This paper is about the behaviours, experiences and preferences of crowdworkers, from a Human-Computer Interaction perspective.'
+excerpt: 'We define (reinforcement) learning agents based on various classic moral philosophies, and study agent behaviours and emerging outcomes in (multi-agent) social dilemma settings.'
 date: 2023-23-01
 venue: 'arXiv (pre-print)'
 paperurl: 'https://arxiv.org/format/2301.08491'

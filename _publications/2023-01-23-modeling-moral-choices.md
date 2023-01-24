@@ -12,7 +12,7 @@ citation: 'Tennant, E., Hailes, S., Musolesi, M. (2023). &quot;Modeling Moral Ch
 We define (reinforcement) learning agents based on various classic moral philosophies, and study agent behaviours and emerging outcomes in (multi-agent) social dilemma settings. 
 
 We focus especially on modelling and evaluating interactions between agents who differ in their moral values, attempting to create insights for morally diverse societies (which are arguably more like the real world). The applications of this research could be two-fold: 
-1) safer design of AI agents for the real world 
+1) safer design of AI agents for the real world, and
 2) insights for human moral behaviour in societies 
 
 This is the first public piece of work from my PhD, so I'm very keen to hear any feedback!

@@ -6,7 +6,7 @@ excerpt: 'We define (reinforcement) learning agents based on various classic mor
 date: 2023-01-23
 venue: "The 32nd International Joint Conference On Artificial Intelligence (IJCAI'23)"
 paperurl: 'https://arxiv.org/abs/2301.08491' 
-citation: "Tennant, E., Hailes, S., Musolesi, M. (2023). &quot;Modeling Moral Choices in Social Dilemmas with Multi-Agent Reinforcement Learning.&quot; <i>The 32nd International Joint Conference On Artificial Intelligence (IJCAI'23)</i>"
+citation: "Tennant, E., Hailes, S., Musolesi, M. (2023). &quot;Modeling Moral Choices in Social Dilemmas with Multi-Agent Reinforcement Learning.&quot; <i> The 32nd International Joint Conference On Artificial Intelligence (IJCAI'23) </i>"
 
 ---
 

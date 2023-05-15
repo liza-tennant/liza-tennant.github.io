@@ -20,6 +20,6 @@ This is the first public piece of work from my PhD, so I'm very keen to hear any
 
 [Conference paper](http://liza-karmannaya.github.io/files/Modeling_Moral_Choices_in_Social_Dilemmas_with_Multi_Agent_Reinforcement_Learning.pdf)
 
-[Appendix](Appendix-IJCAI_2023___Modeling_Moral_Choice__Camera_Ready_.pdf)
+[Appendix](http://liza-karmannaya.github.io/files/Appendix-IJCAI_2023___Modeling_Moral_Choice__Camera_Ready_.pdf)
 
 [arXiv version (with Appendix)](http://arxiv.org/abs/2301.08491)

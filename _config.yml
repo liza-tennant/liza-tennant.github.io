@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Elizaveta Tennant" 
+title                    : "Elizaveta Tennant"  
 title_separator          : "-"
 name                     : &name "Elizaveta Tennant"
 description              : &description "PhD Candidate in Computer Science at UCL, interested in the problem of machine ethics"

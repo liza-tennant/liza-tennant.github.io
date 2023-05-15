@@ -22,4 +22,4 @@ This is the first public piece of work from my PhD, so I'm very keen to hear any
 
 [Appendix](http://liza-karmannaya.github.io/files/Appendix-IJCAI_2023___Modeling_Moral_Choice__Camera_Ready_.pdf)
 
-[arXiv version (with Appendix)](http://arxiv.org/abs/2301.08491)
+[arXiv version (with Appendix)](http://arxiv.org/abs/2301.08491) 

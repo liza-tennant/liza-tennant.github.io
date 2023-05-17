@@ -10,7 +10,7 @@ redirect_from:
 ---
 I am an AI & Behavioural Scientist looking to combine my interests in computational modelling, data science and human behaviour in solving prominent challenges. 
 
-Currently I'm a PhD candidate at the [Intelligent Social Systems Lab](https://www.mircomusolesi.org/lab/), Department of Computer Science, University College London (UCL). I am conducting my PhD research on the problem of Ethics - in humans and machines - funded by the Leverhulme Doctoral Training Programme for the Ecological Study of the Brain. 
+Currently I'm a PhD candidate at the [Machine Intelligence Lab](https://www.machineintelligencelab.ai/), Department of Computer Science, University College London (UCL). I am conducting my PhD research on the problem of Ethics - in humans and machines - funded by the Leverhulme Doctoral Training Programme for the Ecological Study of the Brain. 
 
 My research combines Artificial Intelligence and Moral Philosophy. I use simulation methods, Reinforcement Learning and Game Theory to study the emergence of ethical and cooperative behaviour in individuals and groups. Currently I am focusing on the study of learning through dyadic interactions in social dilemma environments. I analyse Multi-Agent interactions between learning artificial agents that differ in their moral objective functions, trying to generate insights for behaviours and social outcomes that emerge in morally heterogeneous societies. 
 

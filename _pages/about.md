@@ -15,6 +15,12 @@ Currently I'm a PhD candidate at the [Machine Intelligence Lab](https://www.mach
 My research combines Artificial Intelligence and Moral Philosophy. I use simulation methods, Reinforcement Learning and Game Theory to study the emergence of ethical and cooperative behaviour in individuals and groups. Currently I am focusing on the study of learning through dyadic interactions in social dilemma environments. I analyse Multi-Agent interactions between learning artificial agents that differ in their moral objective functions, trying to generate insights for behaviours and social outcomes that emerge in morally heterogeneous societies. 
 
 
+News
+======
+---
+Our paper “Modeling Moral Choices in Social Dilemmas with Multi-Agent Reinforcement” has been accepted for publication in the main research track of the [32nd International Joint Conference on Artificial Intelligence (IJCAI 2023)]([url](https://ijcai-23.org/)). You can download the preprint of the paper [here]([url](https://arxiv.org/abs/2301.08491)).
+
+
 Education
 ====
 ---
@@ -29,3 +35,8 @@ Previous experience
 - Data & Behavioural Scientist, Rooster Insurance, 2021.
 - Behavioural & AI Scientist, ProdX.ai, 2020.
 
+
+Other
+======
+---
+I'm in the process of changing my last name from Karmannaya to Tennant. If you see different names listed on different publications, don't get confused :)

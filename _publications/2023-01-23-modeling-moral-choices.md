@@ -18,8 +18,8 @@ We focus especially on modelling and evaluating interactions between agents who 
 
 This is the first public piece of work from my PhD, so I'm very keen to hear any feedback!
 
-[Conference paper](http://liza-karmannaya.github.io/files/Modeling_Moral_Choices_in_Social_Dilemmas_with_Multi_Agent_Reinforcement_Learning.pdf)
+[Conference paper](http://liza-tennant.github.io/files/Modeling_Moral_Choices_in_Social_Dilemmas_with_Multi_Agent_Reinforcement_Learning.pdf)
 
-[Appendix](http://liza-karmannaya.github.io/files/Appendix-IJCAI23.pdf)
+[Appendix](http://liza-tennant.github.io/files/Appendix-IJCAI23.pdf)
 
 [arXiv version (with Appendix)](http://arxiv.org/abs/2301.08491) 

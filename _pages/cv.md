@@ -14,7 +14,7 @@ Education
 * Ph.D in Computer Science, University College London, 2025 (expected)
 * M.Phil. in Biological Science (Psychology), University of Cambridge, 2020 
   * Tools: Python, Twitter API, MongoDB, R, Qualtrics
-  * All code from my research is available [here](https://github.com/Liza-Karmannaya/Twitter-NLP-SNA); journal publication pending
+  * All code from my research is available [here](https://github.com/Liza-Tennant/Twitter-NLP-SNA); journal publication pending
   * Training in Machine Learning, Statistics, Python, SQL, R, Unix, High Performance Computing, Psychometrics, Stata, Tableau
 * B.Sc. in Psychology and Language Sciences, University College London, 2019
   * First Class degree
@@ -98,6 +98,7 @@ Positions of Responsibility:
 * Year 1 Student Academic Representative (achieved Advanced Certificate) @ UCL (2016)
 
 Voluntary Work:
+* Volunteer @ AAMAS 2023 - The 22nd International Conference on Autonomous Agents and Multiagent Systems (London, 2023)
 * Volunteer @ CognitionX: Festival of AI and Emerging Technology (London, 2019)
 * Behavioural Science Volunteer @ Climate Change Communication Workshop (Cambridge, 2019)
 * Impact Research Intern @ Greater Change (remote, 2019)

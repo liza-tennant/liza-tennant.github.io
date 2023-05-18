@@ -18,7 +18,7 @@ My research combines Artificial Intelligence and Moral Philosophy. I use simulat
 News
 ======
 ---
-Our paper “Modeling Moral Choices in Social Dilemmas with Multi-Agent Reinforcement” has been accepted for publication in the main research track of the [32nd International Joint Conference on Artificial Intelligence (IJCAI 2023)](https://ijcai-23.org/). You can download the preprint of the paper [here](https://arxiv.org/abs/2301.08491).
+Our paper “Modeling Moral Choices in Social Dilemmas with Multi-Agent Reinforcement Learning” has been accepted for publication in the main research track of the [32nd International Joint Conference on Artificial Intelligence (IJCAI 2023)](https://ijcai-23.org/). You can download the preprint of the paper [here](https://arxiv.org/abs/2301.08491).
 
 
 Education

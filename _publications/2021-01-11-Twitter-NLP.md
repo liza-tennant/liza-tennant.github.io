@@ -6,13 +6,13 @@ excerpt: 'This paper analyses language and network data from Twitter to test a h
 date: 2021-01-11
 venue: 'PsyArXiv'
 paperurl: 'https://psyarxiv.com/v6qx5/'
-citation: 'Karmannaya, E., & de-Wit, L. (2021, January 11). The Grammar of Politics, through the lens of Surveys and Web-based Social Network methods. <i> PsyArXiv </i>.'
+citation: '<ins>Karmannaya, E.</ins>, & de-Wit, L. (2021, January 11). The Grammar of Politics, through the lens of Surveys and Web-based Social Network methods. <i> PsyArXiv </i>.'
 ---
 This paper is a pre-print of my MPhil research work, where I tested a hypothesis about Noun use by political Conservatives by analysing Language and Social Network data from Twitter, and contrasting this with findings from my two more traditional survey studies. 
 
 [Download paper here](https://psyarxiv.com/v6qx5/)
 
-[View supplementary materials, data & code] (https://doi.org/10.17605/OSF.IO/DR7BK)
+[View supplementary materials, data & code](https://doi.org/10.17605/OSF.IO/DR7BK)
 
 Abstract
 ====

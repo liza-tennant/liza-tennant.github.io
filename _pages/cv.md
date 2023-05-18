@@ -87,7 +87,7 @@ Teaching
   
 Service and leadership
 ======
-Positions of Responsibility: 
+### Positions of Responsibility: 
 * Treasurer, May Ball Committee @ Darwin College, Cambridge (2019-2020)
 * Workshop Organiser – Computational Social Science London (2019-2020)
 * Departmental Workshop Organiser ('Where is Psychology Now?') @ UCL (2018-2019)
@@ -97,7 +97,7 @@ Positions of Responsibility:
   * Designed project ‘Crossing Disciplines’ investigating interdisciplinary research at UCL 
 * Year 1 Student Academic Representative (achieved Advanced Certificate) @ UCL (2016)
 
-Voluntary Work:
+### Voluntary Work:
 * Volunteer @ AAMAS 2023 - The 22nd International Conference on Autonomous Agents and Multiagent Systems (London, 2023)
 * Volunteer @ CognitionX: Festival of AI and Emerging Technology (London, 2019)
 * Behavioural Science Volunteer @ Climate Change Communication Workshop (Cambridge, 2019)

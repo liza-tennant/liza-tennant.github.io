@@ -10,9 +10,9 @@ redirect_from:
 ---
 I am an AI & Behavioural Scientist looking to combine my interests in computational modelling, data science and human behaviour in solving prominent challenges. 
 
-Currently I'm a PhD candidate at the [Machine Intelligence Lab](https://www.machineintelligencelab.ai/), Department of Computer Science, University College London (UCL). I am conducting my PhD research on the problem of Ethics - in humans and machines - funded by the Leverhulme Doctoral Training Programme for the Ecological Study of the Brain. 
+Currently I'm a PhD candidate at the [Machine Intelligence Lab](https://www.machineintelligencelab.ai/), Department of Computer Science, University College London (UCL). I am conducting my PhD research on the problem of Morality - in humans and machines - funded by the Leverhulme Doctoral Training Programme for the Ecological Study of the Brain. Before my PhD I studied Psychology & Linguistics (@ UCL), conducted research on political psychology using Twitter data (@ Cambridge), and worked as an AI/Data Scientist and Behavioural Scientist at two start-ups and a large investment bank. 
 
-My research combines Artificial Intelligence and Moral Philosophy. I use simulation methods, Reinforcement Learning and Game Theory to study the emergence of ethical and cooperative behaviour in individuals and groups. Currently I am focusing on the study of learning through dyadic interactions in social dilemma environments. I analyse Multi-Agent interactions between learning artificial agents that differ in their moral objective functions, trying to generate insights for behaviours and social outcomes that emerge in morally heterogeneous societies. 
+My current research combines Artificial Intelligence with Moral Philosophy and Social Psychology. I use simulation methods, Reinforcement Learning, Game Theory and Language Models to 1) study the emergence of ethical and cooperative behaviour in multi-agent social dilemma environments, and 2) provide insights for developing morality for real-world, interactive learning & decision-making AI systems in the future. My latest project has focused on analysing multi-agent interactions between learning artificial agents that differ in their moral objective functions, trying to generate insights for behaviours and social outcomes that emerge in morally heterogeneous societies.
 
 
 News
@@ -31,9 +31,9 @@ Education
 Previous experience
 ======
 ---
-- Quantitative UX Researcher, JPMorgan, 2021-2022.
-- Data & Behavioural Scientist, Rooster Insurance, 2021.
-- Behavioural & AI Scientist, ProdX.ai, 2020.
+- Quantitative UX Researcher, JPMorgan (user experience analytics within the Corporate & Investment Bank, Markets business), 2021-2022.
+- Data & Behavioural Scientist, Rooster Insurance (car insurance startup which based its pricing model on behavioural data rather than demographcis), 2021.
+- Behavioural & AI Scientist, ProdX.ai (productivity startup which was building a product to make digital workers more productive thourgh automated, data-driven & psychology-driven coaching), 2020.
 
 
 Other

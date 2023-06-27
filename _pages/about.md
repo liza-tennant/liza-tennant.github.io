@@ -18,8 +18,10 @@ My current research combines Artificial Intelligence with Moral Philosophy and S
 News
 ======
 ---
-Our paper “Modeling Moral Choices in Social Dilemmas with Multi-Agent Reinforcement Learning” has been accepted for publication in the main research track of the [32nd International Joint Conference on Artificial Intelligence (IJCAI 2023)](https://ijcai-23.org/). You can download the preprint of the paper [here](https://arxiv.org/abs/2301.08491).
-
+<ul>
+  <li> I've spent a week volunteering at the 22nd International Conference on Autonomous Agents and Multiagent Systems [AAMAS 2023](https://aamas2023.soton.ac.uk/) in London. </li> 
+  <li> Our paper “Modeling Moral Choices in Social Dilemmas with Multi-Agent Reinforcement Learning” has been accepted for publication in the main research track of the [32nd International Joint Conference on Artificial Intelligence (IJCAI 2023)](https://ijcai-23.org/). You can download the preprint of the paper [here](https://arxiv.org/abs/2301.08491). </li> 
+</ul>ul> 
 
 Education
 ====

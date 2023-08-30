@@ -24,6 +24,6 @@ This is the first public piece of work from my PhD, so I'm very keen to hear any
 
 [arXiv version (with Appendix)](http://arxiv.org/abs/2301.08491) 
 
-Slides 
+[Slides](http://liza-tennant.github.io/files/Slides-IJCAI23-PDF.pdf) 
 
-Poster 
+[Poster](http://liza-tennant.github.io/files/Poster-IJCAI23.pdf)

@@ -28,7 +28,3 @@ This is the first public piece of work from my PhD, so I'm very keen to hear any
 
 ![Poster](/files/Poster-IJCAI23.png)
 
-
-
-
-[Slides-IJCAI23-PDF.pdf](https://github.com/liza-tennant/liza-tennant.github.io/files/12476729/Slides-IJCAI23-PDF.pdf)

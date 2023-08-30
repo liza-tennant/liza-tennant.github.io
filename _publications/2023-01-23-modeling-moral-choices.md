@@ -10,7 +10,7 @@ citation: "<ins>Tennant, E.</ins>, Hailes, S., Musolesi, M. (2023). &quot;Modeli
 
 ---
 
-We define (reinforcement) learning agents based on various classic moral philosophies, and study agent behaviours and emerging outcomes in (multi-agent) social dilemma settings. 
+We define intrisic rewards for reinforcement learning agents based on various classic moral philosophies, and study agent behaviours and emerging outcomes in (multi-agent) social dilemma settings. 
 
 We focus especially on modelling and evaluating interactions between agents who differ in their moral values, attempting to create insights for morally diverse societies (which are arguably more like the real world). The applications of this research could be two-fold: 
 1) design of more ethical AI agents for the real world, and

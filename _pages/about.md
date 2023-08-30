@@ -18,9 +18,9 @@ My current research combines Artificial Intelligence with Moral Philosophy and S
 News
 ======
 ---
+- [August 2023] Presented our paper “Modeling Moral Choices in Social Dilemmas with Multi-Agent Reinforcement Learning” at [32nd International Joint Conference on Artificial Intelligence (IJCAI 2023)](https://ijcai-23.org/) (main track) in Macao. Links & materials [here](https://liza-tennant.github.io/publication/2023-modeling-moral-choices).
 - [July 2023] I'm at the [Cooperative AI Foundation](https://www.cooperativeai.com/) Summer School in London! 
 - [May 2023] I've spent a week volunteering at the 22nd International Conference on Autonomous Agents and Multiagent Systems [AAMAS 2023](https://aamas2023.soton.ac.uk/) in London.
-- Our paper “Modeling Moral Choices in Social Dilemmas with Multi-Agent Reinforcement Learning” has been accepted for publication in the main research track of the [32nd International Joint Conference on Artificial Intelligence (IJCAI 2023)](https://ijcai-23.org/). You can download the preprint of the paper [here](https://arxiv.org/abs/2301.08491).
 
 Education
 ====

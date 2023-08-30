@@ -20,9 +20,7 @@ This is the first public piece of work from my PhD, so I'm very keen to hear any
 
 [Conference paper]( https://doi.org/10.24963/ijcai.2023/36) 
 
-[Appendix only](http://liza-tennant.github.io/files/Appendix-IJCAI23.pdf)
-
-[arXiv version (with Appendix)](http://arxiv.org/abs/2301.08491) 
+[Appendix only](http://liza-tennant.github.io/files/Appendix-IJCAI23.pdf) or [arXiv version (with Appendix)](http://arxiv.org/abs/2301.08491) 
 
 [Slides](http://liza-tennant.github.io/files/Slides-IJCAI23-PDF.pdf) 
 

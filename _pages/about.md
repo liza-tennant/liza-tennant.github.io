@@ -21,11 +21,12 @@ News
 - [November 2023] Presenting our IJCAI paper at two UCL Conferences - the Computer Science Student Conference (long talk) and the Neuro AI Conference (lightning talk). 
 - [August 2023] Presented our paper “Modeling Moral Choices in Social Dilemmas with Multi-Agent Reinforcement Learning” at the [32nd International Joint Conference on Artificial Intelligence (IJCAI 2023)](https://ijcai-23.org/) (main track) in Macao. Links & materials [here](https://liza-tennant.github.io/publication/2023-modeling-moral-choices).
 - [July 2023] I'm at the [Cooperative AI Foundation](https://www.cooperativeai.com/) Summer School in London! 
-- [May 2023] I've spent a week volunteering at the [22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2023)](https://aamas2023.soton.ac.uk/) in London.
+- [May 2023] Spent a week volunteering at the [22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2023)](https://aamas2023.soton.ac.uk/) in London.
 
 Education
 ====
 ---
+- PhD Computer Science (Leverhulme Doctoral Training Programme for the Ecological Study of the Brain), University College London, 2022-2025 (ONGOING)
 - MPhil Biological Science (Psychology), University of Cambridge, 2019-2020. Full-time research, based at the [Political Psychology Lab](https://www.psychol.cam.ac.uk/polpsych). In my research I studied political and linguistic behaviour on Twitter using Social Network Analysis and Natural Language Processing.
 - BSc Psychology & Language Sciences, University College London, 2016-2019.
 

@@ -1,5 +1,5 @@
 ---
-title: "Student Conference Presentation - Modeling Moral Chioices in Social Dilemmas with Multi-Agen Reinforcement Learning"
+title: "Student Conference Presentation: Modeling Moral Chioices in Social Dilemmas with Multi-Agen Reinforcement Learning"
 collection: talks
 type: "Student Conference Presentation"
 permalink: /talks/2023-11-01-StudentConf

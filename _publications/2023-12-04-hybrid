@@ -1,0 +1,25 @@
+---
+title: "Modeling Moral Choices in Social Dilemmas with Multi-Agent Reinforcement Learning"
+collection: publications
+permalink: /publication/2023-hybrid
+excerpt: 'How could - and how should we - develop moral reasoning in artificial agents?'
+date: 2023-12-04
+venue: "arXiv preprint"
+paperurl: 'https://arxiv.org/abs/2312.01818' 
+citation: "<ins>Tennant, E.</ins>, Hailes, S., Musolesi, M. (2023). &quot;Learning Machine Morality through Experience and Interaction
+&quot; <i> arXiv 2312.01818 </i>"
+
+---
+
+Traditionally, morality in AI has been developed top-down - by imposing logic-based ethical rules on systems. More recently, developers of AI systems have started switching to fully bottom-up methods of inferring moral preferences from human behaviour (RLHF, Inverse RL).
+
+We analyse the space of possible approaches in this space on a continuum, from entirely imposed to entirely inferred morality. After reviewing existing works along this continuum, we argue that the middle of this range (i.e., a hybrid space) is too sparsely populated.
+
+We motivate the use of a combination of interpretable top-down quantitative definitions of moral objectives, based on existing frameworks in fields such as Moral Philosophy / Economics / Psychology (see specific examples in the paper), with the bottom-up advantages of trial-and-error learning from experience via RL. We argue that this hybrid methodology provides a powerful way of studying and imposing control on an AI system while enabling flexible adaptation to dynamic environments. 
+
+We review 3 case studies combining moral principles with learning (RL in social dilemmas with intrinsic rewards, safety-shielded RL, & Constitutional AI), providing proof-of-concept for the potential of this hybrid approach in creating more prosocial & cooperative agents.
+
+
+[Preprint]( https://arxiv.org/abs/2312.01818) 
+
+

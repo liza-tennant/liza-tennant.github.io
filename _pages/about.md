@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Liza Tennant"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -18,6 +18,7 @@ My research combines Artificial Intelligence with Moral Philosophy and Social Ps
 News
 ======
 ---
+- [December 2023] New preprint out: Learning Machine Morality through Experience and Interaction ([see arXiv](https://arxiv.org/abs/2312.01818))
 - [November 2023] Gave a (long) student talk at LSE about how AI and Social Science can mutually benefit one another, and interesting questions emerging around aligning LLMs with human values.
 - [November 2023] I'm at the Anthropic Hackathon in London!
 - [November 2023] Presenting our IJCAI paper at two UCL Conferences - the Computer Science Student Conference (long talk) and the Neuro AI Conference (lightning talk). 

@@ -311,3 +311,4 @@ compress_html:
     envs: development
 
 #theme: minima
+theme: minimal-mistakes-jekyll

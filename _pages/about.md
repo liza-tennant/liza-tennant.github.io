@@ -18,6 +18,7 @@ My research combines Artificial Intelligence with Moral Philosophy and Social Ps
 News
 ======
 ---
+- [March 2024] New preprint out: Dynamics of Moral Behavior in Heterogeneous Populations of Learning Agents [see arXiv](https://arxiv.org/html/2403.04202v2)
 - [December 2023] New preprint out: Learning Machine Morality through Experience and Interaction ([see arXiv](https://arxiv.org/abs/2312.01818))
 - [November 2023] Gave a (long) student talk at LSE about how AI and Social Science can mutually benefit one another, and interesting questions emerging around aligning LLMs with human values.
 - [November 2023] I'm at the Anthropic Hackathon in London!

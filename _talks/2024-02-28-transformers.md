@@ -5,7 +5,7 @@ type: "Journal Club Presentation"
 permalink: /talks/2024-02-28-transformers
 venue: "University College London"
 date: 2024-02-28
-location: "Lonndon, UK"
+location: "London, UK"
 ---
 
 (Co-presented with Liam Barrett) 

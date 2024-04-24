@@ -9,4 +9,4 @@ location: "London, UK"
 ---
 
 (Co-presented with Liam Barrett) 
-Led a presentation and discussion about representations and processing happening in Transformer models to the AI Jounral Club hosted at the UCL Department of Psychology and Language Sciences. 
+Led a presentation and discussion about representations and processing happening in Transformer models to the AI Journal Club hosted at the UCL Department of Psychology and Language Sciences. 

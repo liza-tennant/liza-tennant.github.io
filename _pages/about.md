@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Liza Tennant"
+title: "Hi!"
 excerpt: ""
 author_profile: true
 redirect_from: 

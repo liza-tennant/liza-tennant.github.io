@@ -10,7 +10,7 @@ locale                   : "en-UK"
 title                    : "Elizaveta Tennant"  
 title_separator          : "-"
 name                     : &name "Elizaveta Tennant" 
-description              : &description "PhD Candidate in Computer Science at UCL, interested in the problem of machine ethics"
+description              : &description "PhD Candidate in Computer Science at UCL, working on machine morality"
 url                      : https://Liza-Tennant.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Liza-Tennant/Liza-Tennant.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Liza Tennant"
   avatar           : "Liza-image-2022-square.png"
-  bio              : "PhD candidate in Computer Science at UCL, interested in the problem of machine ethics"
+  bio              : "PhD candidate in Computer Science at UCL, working on machine morality"
   location         : "UK"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

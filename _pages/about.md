@@ -18,6 +18,8 @@ My research combines Artificial Intelligence with Moral Philosophy and Social Ps
 News
 ======
 ---
+- [July 2024] Our paper "Dynamics of Moral Behavior in Heterogeneous Populations of Learning Agents [see arXiv](https://arxiv.org/html/2403.04202v2)" was accepted for The 7th AAAI/ACM Conference on AI, Ethics & Society, 2024 (Santa Clara, California). 
+- [July 2024] I'm at the [Eastern European Machine Learning Summer School](https://www.eeml.eu/home) in Novi Sad, Serbia! 
 - [April 2024] I'm at the InterpViz Mechanistic Interpretability hackathon at LISA (The London Initiative for Safe AI)! 
 - [March 2024] New preprint out: Dynamics of Moral Behavior in Heterogeneous Populations of Learning Agents [see arXiv](https://arxiv.org/html/2403.04202v2)
 - [December 2023] New preprint out: Learning Machine Morality through Experience and Interaction ([see arXiv](https://arxiv.org/abs/2312.01818))

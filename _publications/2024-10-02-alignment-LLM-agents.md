@@ -1,5 +1,5 @@
 ---
-title: "Moral Alignment for LLM Agent"
+title: "Moral Alignment for LLM Agents"
 collection: publications
 permalink: /publication/2024-alignment-LLM-agents
 excerpt: 'We introduce the design of intrinsic reward functions for the moral alignment of LLM agents. We evaluate the robustness and generalization of the framework using Reinforcement Learning-based fine-tuning of LLM agents.'

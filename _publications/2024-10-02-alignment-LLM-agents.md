@@ -5,8 +5,8 @@ permalink: /publication/2024-alignment-LLM-agents
 excerpt: 'We introduce the design of intrinsic reward functions for the moral alignment of LLM agents. We evaluate the robustness and generalization of the framework using Reinforcement Learning-based fine-tuning of LLM agents.'
 date: 2024-10-02
 venue: arXiv Preprint. 
-paperurl: 'https://arxiv.org/' 
-citation: "<ins>Tennant, E.</ins>, Hailes, S., Musolesi, M. (2024). &quot;Moral Alignment for LLM Agents.&quot; <i> arXiv Preprint. </i>"
+paperurl: 'https://arxiv.org/abs/2410.01639' 
+citation: "<ins>Tennant, E.</ins>, Hailes, S., Musolesi, M. (2024). &quot;Moral Alignment for LLM Agents.&quot; <i> arXiv Preprint. https://arxiv.org/abs/2410.01639 </i>"
 
 ---
 Decision-making agents based on pre-trained Large Language Models (LLMs) are increasingly being deployed across various domains of human activity. While their applications are currently rather specialized, several research efforts are under way to develop more generalist agents. As LLM-based systems become more agentic, their influence on human activity will grow and the transparency of this will decrease. Consequently, developing effective methods for aligning them to human values is vital.

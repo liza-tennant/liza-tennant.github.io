@@ -15,3 +15,5 @@ In this paper, we present a study of the learning dynamics of morally heterogene
 Using a Prisoner’s Dilemma environment with a partner selection mechanism, we investigate the extent to which the prevalence of diverse moral agents in populations affects individual agents’ learning behaviors and emergent population-level outcomes. 
 
 We observe several types of non-trivial interactions between pro-social and anti-social agents, and find that certain classes of moral agents are able to steer selfish agents towards more cooperative behavior.
+
+![Poster](/files/Poster-AIES2024.png)

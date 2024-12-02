@@ -18,7 +18,7 @@ News
 ======
 ---
 - [Oct 2024] New preprint out: Moral Alignment for LLM Agents ([see arXiv](https://arxiv.org/abs/2410.01639))
-- [July 2024] Our paper "Dynamics of Moral Behavior in Heterogeneous Populations of Learning Agents" ([see arXiv](https://arxiv.org/html/2403.04202v2)) has been accepted for The 7th AAAI/ACM Conference on AI, Ethics & Society, 2024 (Santa Clara, California).
+- [July 2024] Our paper "Dynamics of Moral Behavior in Heterogeneous Populations of Learning Agents" ([see arXiv](https://arxiv.org/html/2403.04202v2)) has been accepted for The 7th AAAI/ACM Conference on AI, Ethics & Society, 2024 (San Jose, California).
 - [July 2024] Attending at the [Vienna Alignment Workshop ](https://far.ai/post/2024-08-vienna-alignment-workshop/#:~:text=The%20Vienna%20Alignment%20Workshop%20advanced,Workshops%2C%20register%20your%20interest%20here.) and presenting our work at the Unconference which followed :) 
 - [July 2024] I'm at the [Eastern European Machine Learning Summer School](https://www.eeml.eu/home) in Novi Sad, Serbia! 
 - [April 2024] I'm at the InterpViz Mechanistic Interpretability hackathon at LISA (The London Initiative for Safe AI)! 

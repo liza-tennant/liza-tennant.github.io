@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ---
-I am an AI Scientist + Social Scientist looking to build moral alignment _into_ AI agents. At the moment I am studying this using multi-agent simulations with independent learnering agents, using systems based on Reinforcement Learning (RL) and foundation models (LLMs such as the Gemma2 model), with inspiration from moral philosophy, psychology and game theory. 
+I am an AI Scientist + Social Scientist looking to build moral alignment _into_ AI agents. At the moment I am studying this using multi-agent simulations with independent learning agents, using systems based on Reinforcement Learning (RL) and foundation models (LLMs such as the Gemma2 model), with inspiration from moral philosophy, psychology and game theory. 
 
 Currently I'm a final-year PhD candidate at the [Machine Intelligence Lab](https://www.machineintelligencelab.ai/), Department of Computer Science, University College London (UCL). I am funded by the Leverhulme Doctoral Training Programme for the Ecological Study of the Brain. Before my PhD I studied Psychology & Linguistics (@ UCL), conducted research on political psychology using Twitter data (@ University of Cambridge), and worked as an AI/Data Scientist and Behavioural Scientist at two start-ups and a large investment bank. 
 

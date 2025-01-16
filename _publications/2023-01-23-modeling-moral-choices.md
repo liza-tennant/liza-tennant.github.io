@@ -2,7 +2,7 @@
 title: "Modeling Moral Choices in Social Dilemmas with Multi-Agent Reinforcement Learning"
 collection: publications
 permalink: /publication/2023-modeling-moral-choices
-excerpt: 'We define (reinforcement) learning agents based on various classic moral philosophies, and study agent behaviours and emerging outcomes in (multi-agent) social dilemma settings.'
+excerpt: 'We define (reinforcement) learning agents based on various classic moral philosophies, and study agent behaviours and emerging outcomes in (multi-agent) social dilemma settings. [Thread on X](https://x.com/liza_karmannaya/status/1617494756157972485)'
 date: 2023-01-23
 venue: "The 32nd International Joint Conference On Artificial Intelligence (IJCAI'23)"
 paperurl: 'https://doi.org/10.24963/ijcai.2023/36' 

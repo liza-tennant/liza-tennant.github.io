@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019-CHI-crowdworkers
 excerpt: 'This paper is about the behaviours, experiences and preferences of crowdworkers, from a Human-Computer Interaction perspective.'
 date: 2019-01-01
-venue: 'CHI’19 Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems'
+venue: 'Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI’19)'
 paperurl: 'https://doi.org/10.1145/3290605.3300649'
 citation: 'Lascău, L., Gould, S., Cox, A., <ins>Karmannaya, E.</ins>, Brumby, D.. (2018). "Monotasking or Multitasking: Designing Tasks for Crowdworkers’ Preferences." <i> CHI’19 Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems</i>. ACM, New York.'
 ---

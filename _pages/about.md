@@ -36,7 +36,7 @@ News
 Education
 ====
 ---
-- PhD Computer Science (Leverhulme Doctoral Training Programme for the Ecological Study of the Brain), University College London, 2022-2025 (ONGOING)
+- PhD Computer Science (Leverhulme Doctoral Training Programme for the Ecological Study of the Brain), University College London, 2022-2025
 - MPhil Biological Science (Psychology), University of Cambridge, 2019-2020. Full-time research, based at the [Political Psychology Lab](https://www.psychol.cam.ac.uk/polpsych). In my research I studied political and linguistic behaviour on Twitter using Social Network Analysis and Natural Language Processing.
 - BSc Psychology & Language Sciences, University College London, 2016-2019.
 

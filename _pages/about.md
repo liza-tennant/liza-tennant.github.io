@@ -17,6 +17,7 @@ In my latest work I have developed a methodology for quantifying key moral philo
 News
 ======
 ---
+- [Jan 2025] Our paper "Moral Alignment for LLM Agents" has been accepted for the 13th International Conference on Learning Representations (ICLR'25) in Singapore ([see preprint](https://arxiv.org/abs/2410.01639))
 - [Jan 2025] Gave an invited talk at the Political Psychology Lab at Cambridge on Moral Alignment for Agentic AI Systems. 
 - [Oct 2024] New preprint out: Moral Alignment for LLM Agents ([see arXiv](https://arxiv.org/abs/2410.01639))
 - [July 2024] Our paper "Dynamics of Moral Behavior in Heterogeneous Populations of Learning Agents" ([see arXiv](https://arxiv.org/html/2403.04202v2)) has been accepted for The 7th AAAI/ACM Conference on AI, Ethics & Society, 2024 (San Jose, California).

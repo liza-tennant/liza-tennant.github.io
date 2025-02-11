@@ -12,7 +12,7 @@ This blog describes our latest paper, which can be viewed [here](https://arxiv.o
 
 ---
 
-Is it possible to align LLM agents to human values without preference data? Yes - as we show in our latest paper, now out on arXiv https://arxiv.org/abs/2410.01639! 
+Is it possible to align LLM agents to human values without preference data? Yes - as we show in our latest paper, now out [on arXiv](https://arxiv.org/abs/2410.01639)! 
 I’m really excited about this one, my favourite paper from the PhD so far! 
  
 

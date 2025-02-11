@@ -8,7 +8,7 @@ tags:
   - Moral Philosophy
 ---
 
-This blog describes our latest paper, which can be viewed [here](https://arxiv.org/abs/2410.01639).
+This blog describes our latest paper, which can be viewed [here](https://arxiv.org/abs/2410.01639) (to appear at ICLR'25).
 
 ---
 
@@ -42,4 +42,4 @@ Finally, we also show how moral fine-tuning can be deployed to enable an agent t
 
 In summary, we demonstrate that fine-tuning with intrinsic rewards is a promising general solution for aligning LLM agents to human values. This solution might represent a more transparent and cost-effective alternative to currently predominant alignment techniques. Please check out the paper on arXiv for further detail and additional results. 
 
-Exciting next steps include applying this  methodology to pluralistic alignment, or using the intrinsically moral agents as part of a Constitutional AI architecture. 
+Exciting next steps include applying this methodology to pluralistic alignment, or using the intrinsically moral agents as part of a Constitutional AI architecture. 

@@ -2,7 +2,7 @@
 title: "Moral Alignment for LLM Agents"
 collection: publications
 permalink: /publication/2024-alignment-LLM-agents
-excerpt: 'We introduce the design of intrinsic reward functions for the moral alignment of LLM agents. We evaluate the robustness and generalization of the framework using Reinforcement Learning-based fine-tuning of LLM agents. [Thread on X](https://x.com/liza_karmannaya/status/1846684017757770118)'
+excerpt: 'We introduce the design of intrinsic reward functions for the moral alignment of LLM agents. We evaluate the robustness and generalization of the framework using Reinforcement Learning-based fine-tuning of agentic LLM systems in social dilemma environments. [Thread on X](https://x.com/liza_karmannaya/status/1846684017757770118)'
 date: 2024-10-01
 venue: Proceedings of the 13th International Conference on Learning Representations (ICLR'25)
 paperurl: 'https://arxiv.org/abs/2410.01639' 

@@ -8,15 +8,18 @@ redirect_from:
   - /about.html
 ---
 ---
-I am an AI Scientist + Social Scientist looking to build moral alignment _into_ AI agents. At the moment I am studying this using multi-agent simulations with independent learning agents, using systems based on Reinforcement Learning (RL) and foundation models (LLMs such as the Gemma2 model), with inspiration from moral philosophy, psychology and game theory. 
+I am an AI Scientist + Social Scientist looking to build moral alignment _into_ AI agents. Currently I am studying this using multi-agent simulations with independent learning agents, using systems based on Reinforcement Learning (RL) and foundation models (LLMs such as Gemma2), with inspiration from moral philosophy, psychology and game theory. 
 
-Currently I'm a final-year PhD candidate at the [Machine Intelligence Lab](https://www.machineintelligencelab.ai/), Department of Computer Science, University College London (UCL). I am funded by the Leverhulme Doctoral Training Programme for the Ecological Study of the Brain. Before my PhD I studied Psychology & Linguistics (@ UCL), conducted research on political psychology using Twitter data (@ University of Cambridge), and worked as an AI/Data Scientist and Behavioural Scientist at two start-ups and a large investment bank. 
+I'm a final-year PhD candidate at the [Machine Intelligence Lab](https://www.machineintelligencelab.ai/), Department of Computer Science, University College London (UCL). I am funded by the Leverhulme Doctoral Training Programme for the Ecological Study of the Brain. Before my PhD I studied Psychology & Linguistics (@ UCL), conducted computational social science research in political psychology using Twitter data (@ University of Cambridge), and worked as an AI/Data Scientist and Behavioural Scientist at two start-ups and a large investment bank. 
 
-In my latest work I have developed a methodology for quantifying key moral philosophical frameworks in terms of actions and consequences on an envoronment, used these as intrinsic rewards for training RL agents (see [IJCAI'23 paper](https://doi.org/10.24963/ijcai.2023/36)), studied the emergence of ethical and cooperative behaviours in multi-agent social dilemma environments, exploring population dynamics in morally heterogeneous artificial societies of learning agents (see [AIES'24 paper](https://arxiv.org/abs/2403.04202)), and applied this framework to fine-tuning LLM agents to play more morally aligned policies in interactive game environments (see [ICLR'25 paper](https://arxiv.org/abs/2410.01639)).  
+In my latest work I have developed a methodology for quantifying key moral philosophical frameworks in terms of actions and consequences on an envoronment, modeled these as intrinsic rewards for training RL agents playing social dilemma games (see [IJCAI'23 paper](https://doi.org/10.24963/ijcai.2023/36)), simulated societies of agents with diverse moral preferences, implemented multi-agent RL with partner selection, investigated coalition formation, the emergence of cooperation and exploitation in morally heterogeneous societies (see [AIES'24 paper](https://arxiv.org/abs/2403.04202)), and applied this framework to fine-tuning LLM agents to play more morally aligned policies in interactive game environments (see [ICLR'25 paper](https://arxiv.org/abs/2410.01639)).  
 
 News
 ======
 ---
+- [Jun 2025] Presenting a poster at the [RLDM](https://rldm.org/) conference in Dublin.
+- [Apr 2025] Presenting our [paper](https://arxiv.org/abs/2410.01639) at [ICLR 2025](https://iclr.cc/) in Singapore. 
+- [Mar 2025] Presenting a poster at the [UK Multi-Agent Systems Symposium](https://www.turing.ac.uk/events/uk-multi-agent-systems-symposium-2025-uk-mas) at the Turing Institute in London. 
 - [Jan 2025] Our paper "Moral Alignment for LLM Agents" ([see preprint](https://arxiv.org/abs/2410.01639)) has been accepted for the 13th International Conference on Learning Representations (ICLR'25) in Singapore. 
 - [Jan 2025] Gave an invited talk at the Political Psychology Lab at Cambridge on Moral Alignment for Agentic AI Systems.
 - [Dec 2024] Presented my team's work at the [Concordia LLM Agent Competition](https://neurips.cc/virtual/2024/competition/84791) at NeurIPS'24 (remotely). 

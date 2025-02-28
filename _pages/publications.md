@@ -18,6 +18,5 @@ author_profile: true
 
 # Non-archival publications:
 
-Dynamics of Moral Behaviour in Heterogeneous Populations of Learning Agents (Extended Abstract & Poster) @ [The 2025 Multi-disciplinary Conference on Reinforcement Learning and Decision Making (RLDM)](https://rldm.org/), Dublin, Ireland, June 2025
-
-Moral Alignment for AI Agents via Reinforcement Learning with Intrinsic Rewards (Poster) @ [UK Multi-Agent Systems Symposium ](https://www.turing.ac.uk/events/uk-multi-agent-systems-symposium-2025-uk-mas), London, UK, March 2025
+- Dynamics of Moral Behaviour in Heterogeneous Populations of Learning Agents (Extended Abstract & Poster) @ [The 2025 Multi-disciplinary Conference on Reinforcement Learning and Decision Making (RLDM)](https://rldm.org/) - Trinity College Dublin, Dublin, Ireland. June 2025.
+- Moral Alignment for AI Agents via Reinforcement Learning with Intrinsic Rewards (Poster) @ [UK Multi-Agent Systems Symposium (UK-MAS)](https://www.turing.ac.uk/events/uk-multi-agent-systems-symposium-2025-uk-mas) - The Alan Turing Institute, London, UK. March 2025.

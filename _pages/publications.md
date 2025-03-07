@@ -22,5 +22,5 @@ author_profile: true
 
 # Conference Workshops: 
 
-- <ins>Elizaveta Tennant</ins>, Stephen Hailes, Mirco Musolesi. **A Roadmap for Human-Agent Moral Alignment: Integrating Pre-defined Intrinsic Rewards and Learned Reward Models** (Short paper). [Workshop on Bi-Directional Human-AI Alignment](https://bialign-workshop.github.io/#/) at [ICLR'2025](https://iclr.cc/). Singapore, April 2025.
-- <ins>Elizaveta Tennant</ins>, Stephen Hailes, Mirco Musolesi. **Moral Alignment for LLM Agents** (Long paper). [Workshop on Bi-Directional Human-AI Alignment](https://bialign-workshop.github.io/#/) at [ICLR'2025](https://iclr.cc/). Singapore, April 2025. 
+- <ins>Elizaveta Tennant</ins>, Stephen Hailes, Mirco Musolesi. **A Roadmap for Human-Agent Moral Alignment: Integrating Pre-defined Intrinsic Rewards and Learned Reward Models** (Short paper). [Workshop on Bi-Directional Human-AI Alignment](https://bialign-workshop.github.io/#/) at [ICLR'2025](https://iclr.cc/). Singapore. April 2025.
+- <ins>Elizaveta Tennant</ins>, Stephen Hailes, Mirco Musolesi. **Moral Alignment for LLM Agents** (Long paper). [Workshop on Bi-Directional Human-AI Alignment](https://bialign-workshop.github.io/#/) at [ICLR'2025](https://iclr.cc/). Singapore. April 2025. 

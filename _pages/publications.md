@@ -15,6 +15,8 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 # Pre-prints
 
+{% include base_path %}
+
 {% for post in site.preprints reversed %}
   {% include archive-single.html %}
 {% endfor %}

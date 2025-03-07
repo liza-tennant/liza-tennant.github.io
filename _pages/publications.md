@@ -15,6 +15,10 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+{% for post in site.preprints reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
 # Non-archival Conferences & Symposia:
 
 - <ins>Elizaveta Tennant</ins>, Stephen Hailes, Mirco Musolesi. **Dynamics of Moral Behaviour in Heterogeneous Populations of Learning Agents** (Extended Abstract & Poster). [The 2025 Multi-disciplinary Conference on Reinforcement Learning and Decision Making (RLDM)](https://rldm.org/). Trinity College Dublin, Dublin, Ireland. June 2025.

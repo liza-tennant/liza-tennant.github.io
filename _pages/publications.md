@@ -20,5 +20,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 # Conference Workshops: 
 
+- <ins>Elizaveta Tennant</ins>, Stephen Hailes, Mirco Musolesi. **Moral Intrinsic Rewards for Automated Alignment of LLM Agents** (Long paper). [Workshop on Scaling Self-Improving Foundation Models without Human Supervision](https://sites.google.com/berkeley.edu/selfimprovingfoundationmodels/home) at [ICLR'2025](https://iclr.cc/). Singapore. April 2025.
 - <ins>Elizaveta Tennant</ins>, Stephen Hailes, Mirco Musolesi. **A Roadmap for Human-Agent Moral Alignment: Integrating Pre-defined Intrinsic Rewards and Learned Reward Models** (Short paper). [Workshop on Bi-Directional Human-AI Alignment](https://bialign-workshop.github.io/#/) at [ICLR'2025](https://iclr.cc/). Singapore. April 2025.
 - <ins>Elizaveta Tennant</ins>, Stephen Hailes, Mirco Musolesi. **Moral Alignment for LLM Agents** (Long paper). [Workshop on Bi-Directional Human-AI Alignment](https://bialign-workshop.github.io/#/) at [ICLR'2025](https://iclr.cc/). Singapore. April 2025. 
+

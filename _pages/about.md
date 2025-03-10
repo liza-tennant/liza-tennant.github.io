@@ -18,7 +18,7 @@ News
 ======
 ---
 - [Jun 2025] Presenting a poster at the [RLDM](https://rldm.org/) conference in Dublin.
-- [Apr 2025] Presenting our [paper](https://arxiv.org/abs/2410.01639) at [ICLR 2025](https://iclr.cc/) in Singapore, plus two workshop papers. 
+- [Apr 2025] Presenting our [paper](https://arxiv.org/abs/2410.01639) at [ICLR 2025](https://iclr.cc/) in Singapore, plus three workshop papers. Also attending the Alignment Workshop by FAR AI. 
 - [Mar 2025] Presenting a poster at the [UK Multi-Agent Systems Symposium](https://www.turing.ac.uk/events/uk-multi-agent-systems-symposium-2025-uk-mas) at the Turing Institute in London. 
 - [Jan 2025] Our paper "Moral Alignment for LLM Agents" ([see preprint](https://arxiv.org/abs/2410.01639)) has been accepted for the 13th International Conference on Learning Representations (ICLR'25) in Singapore. 
 - [Jan 2025] Gave an invited talk at the Political Psychology Lab at Cambridge on Moral Alignment for Agentic AI Systems.

@@ -17,7 +17,8 @@ I'm a final-year PhD candidate at the [Machine Intelligence Lab](https://www.mac
 News
 ======
 ---
-- [Jun 2025] Presenting a poster at the [RLDM](https://rldm.org/) conference in Dublin.
+- [Jun 2025] Presented a poster and a workshop lightning talk at the [RLDM](https://rldm.org/) conference in Dublin.
+- [May 2025] Took part in the [ARENA](https://www.arena.education/) accelerator & presented a talk at LISA in London. Watch this space for a writeup of our capstone project! 
 - [Apr 2025] Presenting our [paper](https://arxiv.org/abs/2410.01639) at [ICLR 2025](https://iclr.cc/) in Singapore, plus three workshop papers. Also attending the Alignment Workshop by FAR AI. 
 - [Mar 2025] Presenting a poster at the [UK Multi-Agent Systems Symposium](https://www.turing.ac.uk/events/uk-multi-agent-systems-symposium-2025-uk-mas) at the Turing Institute in London. 
 - [Jan 2025] Our paper "Moral Alignment for LLM Agents" ([see preprint](https://arxiv.org/abs/2410.01639)) has been accepted for the 13th International Conference on Learning Representations (ICLR'25) in Singapore. 
@@ -40,7 +41,7 @@ News
 Education
 ====
 ---
-- PhD Computer Science (Leverhulme Doctoral Training Programme for the Ecological Study of the Brain), University College London, 2022-2025
+- PhD Computer Science (Leverhulme Doctoral Training Programme for the Ecological Study of the Brain), University College London, 2022-2025. 
 - MPhil Biological Science (Psychology), University of Cambridge, 2019-2020. Full-time research, based at the [Political Psychology Lab](https://www.psychol.cam.ac.uk/polpsych). In my research I studied political and linguistic behaviour on Twitter using Social Network Analysis and Natural Language Processing.
 - BSc Psychology & Language Sciences, University College London, 2016-2019.
 
@@ -48,6 +49,7 @@ Education
 Previous experience
 ======
 ---
+- Researcher (contract), pre-seed agent startup, 2024-2025. 
 - Quantitative UX Researcher, JPMorgan (user experience analytics within the Corporate & Investment Bank, Markets business), 2021-2022.
 - Data & Behavioural Scientist, Rooster Insurance (car insurance startup which based its pricing model on behavioural data rather than demographcis), 2021.
 - Behavioural & AI Scientist, ProdX.ai (productivity startup which was building a product to make digital workers more productive thourgh automated, data-driven & psychology-inspired coaching), 2020.
@@ -56,4 +58,4 @@ Previous experience
 Other
 ======
 ---
-I'm in the process of changing my last name from Karmannaya to Tennant. If you see different names listed on different publications, don't get confused :)
+I've changed my last name from Karmannaya to Tennant. If you see different names listed on different publications, don't get confused :)

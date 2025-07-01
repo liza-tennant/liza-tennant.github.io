@@ -17,7 +17,7 @@ We replicate and extend the Emergent Misalignment (EM) paper. We show that sever
 --- 
 Emergent Misalignment (EM), discovered by Betley et al. (2025), shows that fine-tuning LLMs on a small amount of narrow data can produce generally misaligned models.
 
-In a recent project, my colleagues @IBeMrT, Kevin Wei and I set out to clarity two questions in relation to EM: 
+In a recent project, my colleagues @IBeMrT, Kevin Wei and I set out to clarify two questions in relation to EM: 
 
 **Q1.** How general is EM? Does it extend to other fine-tuning domains and smaller models? 
 **Q2.** How can we mitigate EM? Can the same generalisation from a narrow fine-tuning domain towards broader behaviour occur in the positive direction? 

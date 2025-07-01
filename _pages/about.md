@@ -18,7 +18,7 @@ News
 ======
 ---
 - [Jun 2025] Presented a poster and a workshop lightning talk at the [RLDM](https://rldm.org/) conference in Dublin.
-- [May 2025] Took part in the [ARENA](https://www.arena.education/) accelerator & presented a talk at LISA in London. Watch this space for a writeup of our capstone project! 
+- [May 2025] Took part in the [ARENA](https://www.arena.education/) accelerator & presented a talk at LISA in London. Our capstone project has now been written up [on LW](https://www.lesswrong.com/posts/ZdY4JzBPJEgaoCxTR/emergent-misalignment-and-realignment)! 
 - [Apr 2025] Presenting our [paper](https://arxiv.org/abs/2410.01639) at [ICLR 2025](https://iclr.cc/) in Singapore, plus three workshop papers. Also attending the Alignment Workshop by FAR AI. 
 - [Mar 2025] Presenting a poster at the [UK Multi-Agent Systems Symposium](https://www.turing.ac.uk/events/uk-multi-agent-systems-symposium-2025-uk-mas) at the Turing Institute in London. 
 - [Jan 2025] Our paper "Moral Alignment for LLM Agents" ([see preprint](https://arxiv.org/abs/2410.01639)) has been accepted for the 13th International Conference on Learning Representations (ICLR'25) in Singapore. 

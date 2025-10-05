@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, University College London, 2025 (expected)
+* Ph.D in Computer Science, University College London, 2025
 * M.Phil. in Biological Science (Psychology), University of Cambridge, 2020 
   * Tools: Python, Twitter API, MongoDB, R, Qualtrics
   * All code from my research is available [here](https://github.com/Liza-Tennant/Twitter-NLP-SNA); journal publication pending
@@ -22,6 +22,13 @@ Education
 
 Work experience
 ======
+* Jul 2025-Dec 2025: Student Researcher  
+  * Google Deepmind
+ 
+* Jul 2025-Jul 2025: Research Engineer (Contractor) 
+  * Meta
+  * Duties: contributed to the development of an automated AI Research Agent
+ 
 * Mar 2021-Apr 2022: Quantitative Behavioural (UX) Researcher
   * JPMorgan Chase & Co
   * Duties: Contributed to the development of a Client Experience Index from behavioural data; analysed behavioral and survey data from external and internal clients across multiple projects (up to 10 in parallel); designed and launched large-scale client survey; conducted extra-curricular research on client-focused digital transformation; Presented results to >5 senior management teams

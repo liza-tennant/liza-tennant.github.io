@@ -8,15 +8,17 @@ redirect_from:
   - /about.html
 ---
 ---
-I am an AI Scientist + Social Scientist looking to build moral alignment _into_ AI agents. Currently I am studying this in multi-agent simulations with independent learning agents, using systems based on Reinforcement Learning (RL) and foundation models (LLMs such as Gemma2), with inspiration from moral philosophy, psychology and game theory. 
+I am an AI Scientist + Social Scientist looking to build moral alignment _into_ AI agents. Until recently I've been studying this problem in my PhD through multi-agent simulations with independent learning agents, using systems based on Reinforcement Learning (RL) and foundation models (LLMs such as Gemma2), with inspiration from moral philosophy, psychology and game theory. Now I am a Student Researcher at Google DeepMind.
 
 In my latest work I have developed a methodology for quantifying key moral philosophical frameworks in terms of actions and consequences on an environment, modeled these as intrinsic rewards for training RL agents playing social dilemma games (see [IJCAI'23 paper](https://doi.org/10.24963/ijcai.2023/36)), simulated societies of agents with diverse moral preferences, implemented multi-agent RL with partner selection, investigated coalition formation, the emergence of cooperation and exploitation in morally heterogeneous societies (see [AIES'24 paper](https://arxiv.org/abs/2403.04202)), and applied this framework to fine-tuning LLM agents to play more morally aligned policies in interactive game environments (see [ICLR'25 paper](https://arxiv.org/abs/2410.01639)).  
 
-I'm a final-year PhD candidate at the [Machine Intelligence Lab](https://www.machineintelligencelab.ai/), Department of Computer Science, University College London (UCL). I am funded by the Leverhulme Doctoral Training Programme for the Ecological Study of the Brain. Before my PhD I studied Psychology & Linguistics (@ UCL), conducted computational social science research in political psychology using Twitter data (@ University of Cambridge), and worked as an AI/Data Scientist and Behavioural Scientist at two start-ups and a large investment bank. 
+I did my PhD at the [Machine Intelligence Lab](https://www.machineintelligencelab.ai/), Department of Computer Science, University College London (UCL). I was funded by the Leverhulme Doctoral Training Programme for the Ecological Study of the Brain. Before my PhD I studied Psychology & Linguistics (@ UCL), conducted computational social science research in political psychology using Twitter data (@ University of Cambridge), and worked as an AI/Data Scientist and Behavioural Scientist at two start-ups and a large investment bank. 
 
 News
 ======
 ---
+- [Sep-Oct 2025] Presented talks at UK Multi-Agent Systems meetup (@ KCL); ARENA course (@ LISA); Citizen-Centric AI Systems Seminar (online) 
+- [Jul 2025] I've started at DeepMind as a Student Researcher! 
 - [Jun 2025] Presented a poster and a workshop lightning talk at the [RLDM](https://rldm.org/) conference in Dublin.
 - [May 2025] Took part in the [ARENA](https://www.arena.education/) accelerator & presented a talk at LISA in London. Our capstone project has now been written up [on LW](https://www.lesswrong.com/posts/ZdY4JzBPJEgaoCxTR/emergent-misalignment-and-realignment)! 
 - [Apr 2025] Presenting our [paper](https://arxiv.org/abs/2410.01639) at [ICLR 2025](https://iclr.cc/) in Singapore, plus three workshop papers. Also attending the Alignment Workshop by FAR AI. 

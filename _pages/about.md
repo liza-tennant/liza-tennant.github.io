@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 ---
-I am an AI Alignment researcher looking to build moral alignment _into_ AI agents. Until recently I've been studying this problem in my PhD through multi-agent simulations with independent learning agents, using systems based on Reinforcement Learning (RL) and foundation models (LLMs such as Gemma2), with inspiration from moral philosophy, psychology and game theory. Now I am a Student Researcher at Google DeepMind.
+I am an AI Alignment researcher looking to build moral alignment _into_ AI agents. I am currently a Student Researcher at Google DeepMind. Until recently I've been studying the moral alignment problem in my PhD through multi-agent simulations with independent RL or LLM agents, with inspiration from moral philosophy, psychology and game theory. 
 
-In my latest work I have developed a methodology for quantifying key moral philosophical frameworks in terms of actions and consequences on an environment, modeled these as intrinsic rewards for training RL agents playing social dilemma games (see [IJCAI'23 paper](https://doi.org/10.24963/ijcai.2023/36)), simulated societies of agents with diverse moral preferences, implemented multi-agent RL with partner selection, investigated coalition formation, the emergence of cooperation and exploitation in morally heterogeneous societies (see [AIES'24 paper](https://arxiv.org/abs/2403.04202)), and applied this framework to fine-tuning LLM agents to play more morally aligned policies in interactive game environments (see [ICLR'25 paper](https://arxiv.org/abs/2410.01639)).  
+In my latest published work I have developed a methodology for quantifying key moral philosophical frameworks in terms of actions and consequences in an agentic environment, modeled these as intrinsic rewards for training RL agents playing social dilemma games (see [IJCAI'23 paper](https://doi.org/10.24963/ijcai.2023/36)), simulated societies of agents with diverse moral preferences, implemented multi-agent RL with partner selection, investigated coalition formation, the emergence of cooperation and exploitation in morally heterogeneous societies (see [AIES'24 paper](https://arxiv.org/abs/2403.04202)), and applied this framework to fine-tuning LLM agents to play more morally aligned policies in interactive game environments (see [ICLR'25 paper](https://arxiv.org/abs/2410.01639)).  
 
 I did my PhD at the [Machine Intelligence Lab](https://www.machineintelligencelab.ai/), Department of Computer Science, University College London (UCL). I was funded by the Leverhulme Doctoral Training Programme for the Ecological Study of the Brain. Before my PhD I studied Psychology & Linguistics (@ UCL), conducted computational social science research in political psychology using Twitter data (@ University of Cambridge), and worked as an AI/Data Scientist and Behavioural Scientist at two start-ups and a large investment bank. 
 
@@ -18,7 +18,7 @@ News
 ======
 ---
 - [Jan 2026] Presented an invited talk at the AAAI'26 Workshop: [From Formal Methods to Emergent Machine Ethics](https://www.aialign.net/ws-machine-ethics)! Slides [here](https://docs.google.com/presentation/d/1MDhWgh2MuRo2LaRbrbwVf4-k58ic1yuxqybb9YxIRRA/edit?usp=sharing).
-- [Sep-Jan 2025] Presented talks at UK Multi-Agent Systems meetup (@ KCL); ARENA 6.0 & 7.0 courses (@ LISA); Citizen-Centric AI Systems Seminar (online) 
+- [Sep-Jan 2025] Presented talks at [UK Multi-Agent Systems meetup](https://www.turing.ac.uk/events/uk-multi-agent-systems-symposium-2025-uk-mas) (@ KCL); ARENA 6.0 & 7.0 courses (@ [LISA](https://www.safeai.org.uk/)); [Citizen-Centric AI Systems Seminar](https://www.ccais.ac.uk/seminar-series/) (online) 
 - [Jul 2025] I've started at DeepMind as a Student Researcher! 
 - [Jun 2025] Presented a poster and a workshop lightning talk at the [RLDM](https://rldm.org/) conference in Dublin.
 - [May 2025] Took part in the [ARENA](https://www.arena.education/) accelerator & presented a talk at LISA in London. Our capstone project has now been written up [on LW](https://www.lesswrong.com/posts/ZdY4JzBPJEgaoCxTR/emergent-misalignment-and-realignment)! 

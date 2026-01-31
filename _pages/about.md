@@ -17,8 +17,8 @@ I did my PhD at the [Machine Intelligence Lab](https://www.machineintelligencela
 News
 ======
 ---
-- [Jan 2026] Presenting an invited talk at the AAAI'26 Workshop: [From Formal Methods to Emergent Machine Ethics](https://www.aialign.net/ws-machine-ethics)! Slides [here](https://docs.google.com/presentation/d/1MDhWgh2MuRo2LaRbrbwVf4-k58ic1yuxqybb9YxIRRA/edit?usp=sharing).
-- [Sep-Jan 2025] Presented talks at UK Multi-Agent Systems meetup (@ KCL); ARENA 6.0 & 6.0 course (@ LISA); Citizen-Centric AI Systems Seminar (online) 
+- [Jan 2026] Presented an invited talk at the AAAI'26 Workshop: [From Formal Methods to Emergent Machine Ethics](https://www.aialign.net/ws-machine-ethics)! Slides [here](https://docs.google.com/presentation/d/1MDhWgh2MuRo2LaRbrbwVf4-k58ic1yuxqybb9YxIRRA/edit?usp=sharing).
+- [Sep-Jan 2025] Presented talks at UK Multi-Agent Systems meetup (@ KCL); ARENA 6.0 & 7.0 courses (@ LISA); Citizen-Centric AI Systems Seminar (online) 
 - [Jul 2025] I've started at DeepMind as a Student Researcher! 
 - [Jun 2025] Presented a poster and a workshop lightning talk at the [RLDM](https://rldm.org/) conference in Dublin.
 - [May 2025] Took part in the [ARENA](https://www.arena.education/) accelerator & presented a talk at LISA in London. Our capstone project has now been written up [on LW](https://www.lesswrong.com/posts/ZdY4JzBPJEgaoCxTR/emergent-misalignment-and-realignment)! 

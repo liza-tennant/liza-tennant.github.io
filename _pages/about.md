@@ -17,6 +17,7 @@ I did my PhD at the [Machine Intelligence Lab](https://www.machineintelligencela
 News
 ======
 ---
+- [Feb - Mar 2026] I'll be at the IASEA'26 Conference in Paris and the FAR AI Alignment Workshop in London. 
 - [Jan 2026] Presented an invited talk at the AAAI'26 Workshop: [From Formal Methods to Emergent Machine Ethics](https://www.aialign.net/ws-machine-ethics)! Slides [here](https://docs.google.com/presentation/d/1MDhWgh2MuRo2LaRbrbwVf4-k58ic1yuxqybb9YxIRRA/edit?usp=sharing).
 - [Sep-Jan 2025] Presented talks at [UK Multi-Agent Systems meetup](https://www.turing.ac.uk/events/uk-multi-agent-systems-symposium-2025-uk-mas) (@ KCL); ARENA 6.0 & 7.0 courses (@ [LISA](https://www.safeai.org.uk/)); [Citizen-Centric AI Systems Seminar](https://www.ccais.ac.uk/seminar-series/) (online) 
 - [Jul 2025] I've started at DeepMind as a Student Researcher! 

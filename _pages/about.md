@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ---
-I am an AI Alignment researcher looking to build moral alignment _into_ AI agents. I am currently a Student Researcher at Google DeepMind. Until recently I've been studying the moral alignment problem in my PhD through multi-agent simulations with independent RL or LLM agents, with inspiration from moral philosophy, psychology and game theory. 
+I am an AI Alignment researcher looking to build moral alignment _into_ AI agents. I am currently a Student Researcher at Google DeepMind. Until recently I've been studying the moral alignment problem in my PhD by building multi-agent simulations with independent learning agents based on RL and LLMs, taking inspiration from moral philosophy, psychology and game theory. 
 
 In my latest published work I have developed a methodology for quantifying key moral philosophical frameworks in terms of actions and consequences in an agentic environment, modeled these as intrinsic rewards for training RL agents playing social dilemma games (see [IJCAI'23 paper](https://doi.org/10.24963/ijcai.2023/36)), simulated societies of agents with diverse moral preferences, implemented multi-agent RL with partner selection, investigated coalition formation, the emergence of cooperation and exploitation in morally heterogeneous societies (see [AIES'24 paper](https://arxiv.org/abs/2403.04202)), and applied this framework to fine-tuning LLM agents to play more morally aligned policies in interactive game environments (see [ICLR'25 paper](https://arxiv.org/abs/2410.01639)).  
 
